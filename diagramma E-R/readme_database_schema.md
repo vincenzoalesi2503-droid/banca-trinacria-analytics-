@@ -1,4 +1,4 @@
-# 🏦 Banca Trinacria – Database Schema
+# Banca Trinacria – Database Schema
 
 Questo documento descrive lo **schema relazionale del database bancario** del progetto *Banca Trinacria*.
 
@@ -10,7 +10,7 @@ Lo schema è stato progettato per essere:
 
 ---
 
-## 🎯 Obiettivi dello schema
+##  Obiettivi dello schema
 
 - Modellare clienti, conti e prodotti bancari
 - Tracciare transazioni e prestiti
@@ -19,9 +19,9 @@ Lo schema è stato progettato per essere:
 
 ---
 
-## 🧱 Entità principali
+##  Entità principali
 
-### 👤 Clienti
+###  Clienti
 Contiene le informazioni anagrafiche e demografiche dei clienti.
 
 **Concetti chiave:**
@@ -31,7 +31,7 @@ Contiene le informazioni anagrafiche e demografiche dei clienti.
 
 ---
 
-### 🏦 Conti Correnti
+###  Conti Correnti
 Rappresenta i conti bancari associati ai clienti.
 
 **Concetti chiave:**
@@ -59,7 +59,7 @@ Relazione:
 
 ---
 
-### 💼 Prestiti
+###  Prestiti
 Gestisce i prestiti concessi ai clienti.
 
 **Concetti chiave:**
@@ -73,7 +73,7 @@ Relazione:
 
 ---
 
-## 🔗 Relazioni principali
+##  Relazioni principali
 
 - Cliente → Conti (1:N)
 - Conto → Transazioni (1:N)
@@ -86,7 +86,7 @@ Lo schema consente analisi incrociate su:
 
 ---
 
-## 📐 Diagramma ER (Mermaid)
+##  Diagramma ER (Mermaid)
 
 Il seguente diagramma può essere renderizzato direttamente su GitHub.
 
@@ -136,7 +136,7 @@ erDiagram
 
 ---
 
-## 📊 Analisi supportate
+##  Analisi supportate
 
 - Saldo e flussi per cliente
 - Pattern di spesa
@@ -146,7 +146,7 @@ erDiagram
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 Lo schema e i dati associati sono **interamente fittizi** e creati a scopo dimostrativo.
 
@@ -158,10 +158,3 @@ Lo schema e i dati associati sono **interamente fittizi** e creati a scopo dimos
 Data Analyst
 
 ---
-
-✨ Possibili estensioni:
-- tabelle storiche (SCD)
-- scoring clienti
-- viste analitiche
-- materialized views per BI
-
