@@ -1,12 +1,11 @@
-# 📊 Banca Trinacria – Data Analysis Notebooks
+#  Banca Trinacria – Data Analysis Notebooks
 
 Questa sezione del progetto contiene i **notebook di analisi dati** sviluppati a partire dal database e dai dataset del progetto *Banca Trinacria*.
 
-I notebook sono pensati per dimostrare competenze pratiche di **EDA**, **credit risk analysis** e **customer segmentation**, con un approccio tipico da **Data Analyst / BI Analyst**.
-
+I notebook sono pensati per dimostrare competenze pratiche di **EDA**, **credit risk analysis** e **customer segmentation**, con un approccio tipico da **Data Analyst 
 ---
 
-## 🎯 Obiettivi
+## Obiettivi
 
 - Analizzare dati bancari realistici end-to-end
 - Estrarre insight utili per il business
@@ -15,7 +14,7 @@ I notebook sono pensati per dimostrare competenze pratiche di **EDA**, **credit 
 
 ---
 
-## 📂 Notebook inclusi
+## Notebook inclusi
 
 ```
 .
@@ -27,7 +26,7 @@ I notebook sono pensati per dimostrare competenze pratiche di **EDA**, **credit 
 
 ---
 
-## 🧩 01 – Exploratory Data Analysis (EDA)
+## 01 – Exploratory Data Analysis (EDA)
 
 **File:** `01_exploratory_analysis.ipynb`
 
@@ -47,7 +46,7 @@ Comprendere la struttura dei dati e individuare pattern iniziali.
 
 ---
 
-## 🧩 02 – Credit Risk Analysis
+## 02 – Credit Risk Analysis
 
 **File:** `02_credit_risk_analysis.ipynb`
 
@@ -68,7 +67,7 @@ Analizzare il **rischio di credito** e i prestiti non performing (NPL).
 
 ---
 
-## 🧩 03 – Customer Segmentation
+## 03 – Customer Segmentation
 
 **File:** `03_customer_segmentation.ipynb`
 
@@ -88,7 +87,7 @@ Segmentare i clienti in gruppi omogenei per comportamento e valore.
 
 ---
 
-## ⚙️ Requisiti
+## Requisiti
 
 - Python **3.9+**
 - Librerie principali:
@@ -99,17 +98,17 @@ Segmentare i clienti in gruppi omogenei per comportamento e valore.
 
 ---
 
-## ▶️ Ordine consigliato di lettura
+## Ordine consigliato di lettura
 
 1. `01_exploratory_analysis.ipynb`
 2. `02_credit_risk_analysis.ipynb`
 3. `03_customer_segmentation.ipynb`
 
-> 📌 I notebook assumono che i dati siano già disponibili (CSV o database SQL)
+>  I notebook assumono che i dati siano già disponibili (CSV o database SQL)
 
 ---
 
-## 📈 Valore per il business
+## Valore per il business
 
 - Supporto decisioni di credito
 - Migliore comprensione del comportamento clienti
@@ -118,21 +117,15 @@ Segmentare i clienti in gruppi omogenei per comportamento e valore.
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 I dati utilizzati sono **interamente fittizi** e creati a scopo dimostrativo.
 
 ---
 
-## 👤 Autore
+## Autore
 
 **Vincenzo Alesi**  
 Data Analyst
 
 ---
-
-✨ Possibili estensioni:
-- modelli predittivi (default / churn)
-- dashboard BI collegate ai risultati
-- confronto tra cluster nel tempo
-
