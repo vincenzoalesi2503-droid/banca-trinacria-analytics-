@@ -45,7 +45,7 @@ Relazione:
 
 ---
 
-### 💳 Transazioni
+###  Transazioni
 Traccia tutti i movimenti bancari.
 
 **Concetti chiave:**
@@ -152,7 +152,7 @@ Lo schema e i dati associati sono **interamente fittizi** e creati a scopo dimos
 
 ---
 
-## 👤 Autore
+##  Autore
 
 **Vincenzo Alesi**  
 Data Analyst
