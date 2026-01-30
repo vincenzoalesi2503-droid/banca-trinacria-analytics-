@@ -1,4 +1,4 @@
-# 🏦 Banca Trinacria – SQL Server Database
+#  Banca Trinacria – SQL Server Database
 
 Questo repository contiene gli **script SQL Server** per la creazione e il popolamento di un **database bancario fittizio**, progettato per analisi dati, query SQL avanzate e progetti di Business Intelligence.
 
@@ -6,7 +6,7 @@ Il database è pensato per lavorare insieme ai dataset generati dai notebook Pyt
 
 ---
 
-## 🎯 Obiettivi
+##  Obiettivi
 
 - Creare uno schema bancario realistico su **SQL Server**
 - Importare dati simulati da file CSV
@@ -18,7 +18,7 @@ Il database è pensato per lavorare insieme ai dataset generati dai notebook Pyt
 
 ---
 
-## 📂 File SQL inclusi
+##  File SQL inclusi
 
 ```
 .
@@ -30,7 +30,7 @@ Il database è pensato per lavorare insieme ai dataset generati dai notebook Pyt
 
 ---
 
-## 🧩 01 – Creazione Database
+##  01 – Creazione Database
 
 **File:** `01_sqlserver_create_database.sql`
 
@@ -41,7 +41,7 @@ Funzionalità:
 
 ---
 
-## 🧩 02 – Creazione Tabelle
+##  02 – Creazione Tabelle
 
 **File:** `02_sqlserver_create_tables.sql`
 
@@ -56,7 +56,7 @@ Lo schema è progettato per mantenere **coerenza logica** tra clienti, conti e m
 
 ---
 
-## 🧩 03 – Caricamento Dati
+##  03 – Caricamento Dati
 
 **File:** `03_sqlserver_load_data.sql`
 
@@ -65,11 +65,11 @@ Funzionalità:
 - Utilizzo di `BULK INSERT` / `OPENROWSET`
 - Allineamento con i file generati via Python
 
-> ⚠️ Assicurati che i path dei file CSV siano corretti e accessibili da SQL Server
+>  Assicurati che i path dei file CSV siano corretti e accessibili da SQL Server
 
 ---
 
-## ⚙️ Requisiti
+##  Requisiti
 
 - **Microsoft SQL Server** (2019 o superiore consigliato)
 - **SQL Server Management Studio (SSMS)**
@@ -77,7 +77,7 @@ Funzionalità:
 
 ---
 
-## ▶️ Ordine di esecuzione consigliato
+## Ordine di esecuzione consigliato
 
 1. Esegui `01_sqlserver_create_database.sql`
 2. Esegui `02_sqlserver_create_tables.sql`
@@ -86,7 +86,7 @@ Funzionalità:
 
 ---
 
-## 📊 Esempi di utilizzo
+## Esempi di utilizzo
 
 - Analisi transazioni per cliente
 - Calcolo saldo medio per conto
@@ -96,7 +96,7 @@ Funzionalità:
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 Tutti i dati caricati nel database sono **completamente fittizi**.
 
@@ -104,16 +104,9 @@ Il progetto è destinato esclusivamente a **scopi didattici, dimostrativi e di p
 
 ---
 
-## 👤 Autore
+##  Autore
 
 **Vincenzo Alesi**  
 Data Analyst
 
 ---
-
-✨ Estensioni possibili:
-- aggiunta di **view** e **stored procedure**
-- sezione *Data Dictionary*
-- esempi di query SQL avanzate
-- versione in inglese per GitHub internazionale
-
