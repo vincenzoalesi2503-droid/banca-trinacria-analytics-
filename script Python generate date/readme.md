@@ -85,7 +85,7 @@ Questo notebook estende il modello dati con:
 
 ---
 
-## ⚙️ Requisiti
+##  Requisiti
 
 - Python **3.9+**
 - Librerie principali:
@@ -138,7 +138,3 @@ Data Analyst
 
 ---
 
-✨ Se vuoi, posso:
-- adattare il README a uno stile più *corporate* o più *portfolio*
-- aggiungere esempi di query SQL
-- scrivere una sezione *Data Dictionary*
