@@ -1,0 +1,33 @@
+﻿filiale_id,codice_filiale,nome_filiale,indirizzo,comune,provincia,cap,telefono,email,tipo_filiale,numero_dipendenti,data_apertura,stato,created_at,updated_at
+1,BTPA001,Banca Trinacria - Monreale,Via Vittorio Emanuele 7,Monreale,PA,94350,0914744854,monreale@bancatrinacria.it,Principale,7,2019-02-17,Attiva,2026-01-26 22:18:17.162142,2026-01-26 22:18:17.162147
+2,BTPA002,Banca Trinacria - Palermo,Via Vittorio Emanuele 109,Palermo,PA,90130,0912571945,palermo@bancatrinacria.it,Sportello,3,2016-04-21,Attiva,2026-01-26 22:18:17.162197,2026-01-26 22:18:17.162199
+3,BTPA003,Banca Trinacria - Monreale,Via Vittorio Emanuele 144,Monreale,PA,93833,0918038374,monreale@bancatrinacria.it,Sportello,3,2017-07-08,Attiva,2026-01-26 22:18:17.162234,2026-01-26 22:18:17.162235
+4,BTPA004,Banca Trinacria - Monreale,Via Vittorio Emanuele 41,Monreale,PA,96448,0915661907,monreale@bancatrinacria.it,Distaccata,3,2016-03-16,Attiva,2026-01-26 22:18:17.162265,2026-01-26 22:18:17.162266
+5,BTPA005,Banca Trinacria - Bagheria,Via Vittorio Emanuele 98,Bagheria,PA,91467,0916770619,bagheria@bancatrinacria.it,Distaccata,6,2016-06-25,Attiva,2026-01-26 22:18:17.162295,2026-01-26 22:18:17.162297
+6,BTPA006,Banca Trinacria - Palermo,Via Garibaldi 138,Palermo,PA,91487,0912322047,palermo@bancatrinacria.it,Sportello,6,2016-08-23,Attiva,2026-01-26 22:18:17.162326,2026-01-26 22:18:17.162327
+7,BTPA007,Banca Trinacria - Monreale,Via Umberto I 148,Monreale,PA,93821,0912166941,monreale@bancatrinacria.it,Sportello,2,2018-09-16,Attiva,2026-01-26 22:18:17.162365,2026-01-26 22:18:17.162366
+8,BTPA008,Banca Trinacria - Palermo,Via Vittorio Emanuele 60,Palermo,PA,91489,0915663623,palermo@bancatrinacria.it,Distaccata,5,2018-07-25,Attiva,2026-01-26 22:18:17.162389,2026-01-26 22:18:17.162390
+9,BTPA009,Banca Trinacria - Bagheria,Via Umberto I 91,Bagheria,PA,93786,0915479144,bagheria@bancatrinacria.it,Distaccata,7,2018-10-31,Attiva,2026-01-26 22:18:17.162413,2026-01-26 22:18:17.162414
+10,BTPA010,Banca Trinacria - Monreale,Via Roma 137,Monreale,PA,93267,0918755439,monreale@bancatrinacria.it,Distaccata,5,2016-07-06,Attiva,2026-01-26 22:18:17.162437,2026-01-26 22:18:17.162496
+11,BTCT011,Banca Trinacria - Catania,Via Umberto I 15,Catania,CT,93941,0911538552,catania@bancatrinacria.it,Principale,13,2017-04-01,Attiva,2026-01-26 22:18:17.162552,2026-01-26 22:18:17.162553
+12,BTCT012,Banca Trinacria - Acireale,Via Roma 146,Acireale,CT,95317,0919375710,acireale@bancatrinacria.it,Distaccata,5,2019-12-17,Attiva,2026-01-26 22:18:17.162583,2026-01-26 22:18:17.162584
+13,BTCT013,Banca Trinacria - Acireale,Via Umberto I 36,Acireale,CT,93862,0915408072,acireale@bancatrinacria.it,Distaccata,7,2018-04-12,Attiva,2026-01-26 22:18:17.162611,2026-01-26 22:18:17.162612
+14,BTCT014,Banca Trinacria - Acireale,Via Garibaldi 93,Acireale,CT,93241,0919548432,acireale@bancatrinacria.it,Sportello,5,2015-07-06,Attiva,2026-01-26 22:18:17.162638,2026-01-26 22:18:17.162639
+15,BTCT015,Banca Trinacria - Catania,Via Roma 41,Catania,CT,96710,0912065818,catania@bancatrinacria.it,Distaccata,5,2017-02-20,Attiva,2026-01-26 22:18:17.162680,2026-01-26 22:18:17.162681
+16,BTCT016,Banca Trinacria - Acireale,Via Umberto I 142,Acireale,CT,90796,0912921859,acireale@bancatrinacria.it,Sportello,7,2019-12-18,Attiva,2026-01-26 22:18:17.162708,2026-01-26 22:18:17.162709
+17,BTCT017,Banca Trinacria - Acireale,Via Umberto I 29,Acireale,CT,94545,0913653446,acireale@bancatrinacria.it,Sportello,5,2015-01-07,Attiva,2026-01-26 22:18:17.162734,2026-01-26 22:18:17.162735
+18,BTCT018,Banca Trinacria - Acireale,Via Roma 130,Acireale,CT,91991,0916007072,acireale@bancatrinacria.it,Sportello,8,2018-08-01,Attiva,2026-01-26 22:18:17.162761,2026-01-26 22:18:17.162762
+19,BTME019,Banca Trinacria - Messina,Via Roma 96,Messina,ME,92652,0919897858,messina@bancatrinacria.it,Principale,3,2018-05-11,Attiva,2026-01-26 22:18:17.162790,2026-01-26 22:18:17.162791
+20,BTME020,Banca Trinacria - Milazzo,Via Vittorio Emanuele 29,Milazzo,ME,95999,0916159230,milazzo@bancatrinacria.it,Distaccata,3,2015-04-29,Attiva,2026-01-26 22:18:17.162816,2026-01-26 22:18:17.162817
+21,BTME021,Banca Trinacria - Messina,Via Vittorio Emanuele 22,Messina,ME,97935,0912161193,messina@bancatrinacria.it,Sportello,8,2017-12-26,Attiva,2026-01-26 22:18:17.162841,2026-01-26 22:18:17.162842
+22,BTME022,Banca Trinacria - Messina,Via Garibaldi 141,Messina,ME,92371,0919852897,messina@bancatrinacria.it,Distaccata,8,2018-05-27,Attiva,2026-01-26 22:18:17.162866,2026-01-26 22:18:17.162867
+23,BTME023,Banca Trinacria - Milazzo,Via Roma 80,Milazzo,ME,96787,0917264956,milazzo@bancatrinacria.it,Distaccata,5,2017-11-25,Attiva,2026-01-26 22:18:17.162896,2026-01-26 22:18:17.162897
+24,BTSR024,Banca Trinacria - Noto,Via Vittorio Emanuele 64,Noto,SR,93165,0916672134,noto@bancatrinacria.it,Principale,3,2018-04-19,Attiva,2026-01-26 22:18:17.162924,2026-01-26 22:18:17.162925
+25,BTSR025,Banca Trinacria - Siracusa,Via Roma 2,Siracusa,SR,91824,0911987737,siracusa@bancatrinacria.it,Sportello,3,2015-05-19,Attiva,2026-01-26 22:18:17.162950,2026-01-26 22:18:17.162951
+26,BTSR026,Banca Trinacria - Siracusa,Via Vittorio Emanuele 132,Siracusa,SR,93385,0919143903,siracusa@bancatrinacria.it,Distaccata,3,2018-01-09,Attiva,2026-01-26 22:18:17.162976,2026-01-26 22:18:17.162977
+27,BTTP027,Banca Trinacria - Trapani,Via Garibaldi 63,Trapani,TP,97926,0917829332,trapani@bancatrinacria.it,Principale,9,2015-07-13,Attiva,2026-01-26 22:18:17.163005,2026-01-26 22:18:17.163007
+28,BTTP028,Banca Trinacria - Trapani,Via Garibaldi 91,Trapani,TP,96520,0918835373,trapani@bancatrinacria.it,Sportello,8,2019-02-02,Attiva,2026-01-26 22:18:17.163031,2026-01-26 22:18:17.163032
+29,BTAG029,Banca Trinacria - Agrigento,Via Vittorio Emanuele 16,Agrigento,AG,96845,0916692553,agrigento@bancatrinacria.it,Principale,6,2016-05-24,Attiva,2026-01-26 22:18:17.163060,2026-01-26 22:18:17.163061
+30,BTAG030,Banca Trinacria - Agrigento,Via Garibaldi 36,Agrigento,AG,96287,0915673212,agrigento@bancatrinacria.it,Distaccata,5,2016-05-26,Attiva,2026-01-26 22:18:17.163086,2026-01-26 22:18:17.163087
+31,BTRG031,Banca Trinacria - Ragusa,Via Garibaldi 141,Ragusa,RG,91151,0911247595,ragusa@bancatrinacria.it,Principale,5,2019-03-24,Attiva,2026-01-26 22:18:17.163115,2026-01-26 22:18:17.163117
+32,BTCL032,Banca Trinacria - Caltanissetta,Via Roma 105,Caltanissetta,CL,97592,0914586084,caltanissetta@bancatrinacria.it,Principale,15,2015-05-01,Attiva,2026-01-26 22:18:17.163141,2026-01-26 22:18:17.163142
