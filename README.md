@@ -1,23 +1,19 @@
-# 🏦 Banca Trinacria - Banking Analytics Portfolio
+# Banca Trinacria - Banking Analytics Portfolio
 
 > Progetto completo di data analytics bancario: generazione dati, database SQL Server, analisi Python e Machine Learning
 
-[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
-[![SQL Server](https://img.shields.io/badge/SQL%20Server-2019+-red.svg)](https://www.microsoft.com/sql-server)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
-
 ---
 
-## 📊 Cosa Troverai
+##  Cosa Troverai
 
-- ✅ **50.000 clienti** con dati italiani realistici (IBAN, Codice Fiscale)
-- ✅ **Database SQL Server** completo (12 tabelle normalizzate)
-- ✅ **100.000+ transazioni** (scalabile a milioni)
-- ✅ **3 Jupyter Notebooks** con analisi complete
-- ✅ **Machine Learning** per predizione NPL (85% accuracy)
-- ✅ **Customer Segmentation** con K-Means clustering
+-  **50.000 clienti** con dati italiani realistici (IBAN, Codice Fiscale)
+-  **Database SQL Server** completo (12 tabelle normalizzate)
+-  **100.000+ transazioni** (scalabile a milioni)
+-  **3 Jupyter Notebooks** con analisi complete
+-  **Machine Learning** per predizione NPL (85% accuracy)
+-  **Customer Segmentation** con K-Means clustering
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Scarica e Installa
 
@@ -54,7 +50,7 @@ Apri i 3 notebook in ordine.
 
 ---
 
-## 📁 Struttura Semplice
+##  Struttura 
 
 ```
 banca-trinacria-analytics/
@@ -80,7 +76,7 @@ banca-trinacria-analytics/
 
 ---
 
-## 🎯 Risultati Chiave
+##  Risultati Chiave
 
 ### Credit Risk Analysis
 - **NPL Ratio**: 8.0% (in linea con target bancario italiano)
@@ -98,7 +94,7 @@ banca-trinacria-analytics/
 
 ---
 
-## 🛠️ Tecnologie
+##  Tecnologie
 
 | Categoria | Tool |
 |-----------|------|
@@ -110,7 +106,7 @@ banca-trinacria-analytics/
 
 ---
 
-## 📈 Dataset Scalabile
+##  Dataset Scalabile
 
 Il progetto è pensato per crescere:
 
@@ -124,7 +120,7 @@ Modifica `NUM_TRANSAZIONI` in `generate_data.py` per scalare.
 
 ---
 
-## 📖 Documentazione
+##  Documentazione
 
 Guida completa in `docs/Guida_Completa.pdf` con:
 - Setup dettagliato
@@ -134,23 +130,23 @@ Guida completa in `docs/Guida_Completa.pdf` con:
 
 ---
 
-## 👤 Autore
+##  Autore
 
-**Vincenzo** - Data Analyst
+**Vincenzo Alesi** - Data Analyst
 
-📧 Email: [tua@email.com]  
-💼 LinkedIn: [tuo-profilo](https://linkedin.com/in/tuo-profilo)  
+📧 Email: vincenzoalesi2503@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/vincenzo-alesi/
 📍 Sicilia, Italia
 
 ---
 
-## 📄 Licenza
+##  Licenza
 
 MIT License - Progetto portfolio open source
 
 ---
 
-## ⭐ Support
+##  Support
 
 Se trovi utile questo progetto, lascia una stella! ⭐
 
@@ -158,4 +154,4 @@ Il dataset è completamente fittizio e generato per scopi dimostrativi.
 
 ---
 
-**Versione**: 1.0 | **Status**: ✅ Production Ready
+**Versione**: 1.0 | **Status**:  Production Ready
