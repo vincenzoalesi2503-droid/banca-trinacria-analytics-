@@ -1,4 +1,4 @@
-# 🏦 Banca Trinacria – Banking Data Generator
+#  Banca Trinacria – Banking Data Generator
 
 Generatore di **dati bancari fittizi ma realistici**, pensato per scopi di **portfolio**, **analisi dati**, **SQL**, **Business Intelligence** e **machine learning**.
 
@@ -6,7 +6,7 @@ Il progetto simula un ecosistema bancario completo, coerente con il **contesto i
 
 ---
 
-## 🎯 Obiettivi del progetto
+##  Obiettivi del progetto
 
 - Simulare un ambiente bancario end-to-end
 - Generare dataset realistici e coerenti tra loro
@@ -19,7 +19,7 @@ Il progetto simula un ecosistema bancario completo, coerente con il **contesto i
 
 ---
 
-## 📂 Struttura del progetto
+##  Struttura del progetto
 
 ```
 .
@@ -32,7 +32,7 @@ Il progetto simula un ecosistema bancario completo, coerente con il **contesto i
 
 ---
 
-## 🧩 Notebook 1 – `generate_banking_data.ipynb`
+##  Notebook 1 – `generate_banking_data.ipynb`
 
 ### Contenuto
 Questo notebook genera i **dati master** della banca:
@@ -57,9 +57,9 @@ Questo notebook genera i **dati master** della banca:
 
 ---
 
-## 🧩 Notebook 2 – `generate_banking_data_part2.ipynb`
+##  Notebook 2 – `generate_banking_data_part2.ipynb`
 
-> ⚠️ **Dipende dai CSV generati nella Parte 1**
+> **Dipende dai CSV generati nella Parte 1**
 
 ### Contenuto
 
@@ -102,18 +102,18 @@ pip install pandas numpy
 
 ---
 
-## ▶️ Come eseguire il progetto
+##  Come eseguire il progetto
 
 1. Clona il repository
 2. Esegui **prima** `generate_banking_data.ipynb`
 3. Verifica la creazione dei CSV nella cartella di output
 4. Esegui `generate_banking_data_part2.ipynb`
 
-> 📌 Assicurati che il path di output (`DATA_DIR`) sia corretto per il tuo ambiente
+>  Assicurati che il path di output (`DATA_DIR`) sia corretto per il tuo ambiente
 
 ---
 
-## 📊 Possibili utilizzi
+##  Possibili utilizzi
 
 - Query SQL avanzate
 - Dashboard (Power BI / Tableau)
@@ -123,7 +123,7 @@ pip install pandas numpy
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 Tutti i dati sono **completamente fittizi** e generati artificialmente.
 
@@ -131,7 +131,7 @@ Il progetto è destinato **esclusivamente a scopi didattici e dimostrativi**.
 
 ---
 
-## 👤 Autore
+##  Autore
 
 **Vincenzo Alesi**  
 Data Analyst
